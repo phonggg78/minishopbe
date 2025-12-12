@@ -1,1 +1,1 @@
-nodemon:web src/server.js
+node:web ./server.js
